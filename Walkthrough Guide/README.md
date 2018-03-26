@@ -27,7 +27,7 @@ The entire solution is available to download from Github and licensed under MIT 
 **Azure**
 
 2. [Architecture Options](Walkthrough%20Guide/02_Architecture_Options)
-3. [Web API & App Services](Walkthrough%20Guide/03_Web_API)
+3. [Web API & App Services](Walkthrough%20Guide/03_Web_API) (broken link)
 4. [Data Storage](Walkthrough%20Guide/04_Data_Storage)
 4. [Search](Walkthrough%20Guide/05_Search)
 6. [API Management](Walkthrough%20Guide/06_API_Management)
